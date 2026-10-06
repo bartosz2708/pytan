@@ -1,22 +1,24 @@
 {
+  "wydarzenia": [
     {
-      "imie": "Jan Kowalski",
-      "email": "jan.kowalski@example.com",
-      "rola": "Administrator"
+      "tytul": "Spotkanie zespołu",
+      "tresc": "Omówienie postępów projektu.",
+      "data": "2026-10-06T10:00:00+02:00"
     },
     {
-      "imie": "Anna Nowak",
-      "email": "anna.nowak@example.com",
-      "rola": "Programista"
+      "tytul": "Lunch",
+      "tresc": "Obiad z klientem.",
+      "data": "2026-10-06T13:00:00+02:00"
     },
     {
-      "imie": "Piotr Wiśniewski",
-      "email": "piotr.wisniewski@example.com",
-      "rola": "Tester"
+      "tytul": "Prezentacja projektu",
+      "tresc": "Przedstawienie gotowego projektu.",
+      "data": "2026-10-07T15:30:00+02:00"
     },
     {
-      "imie": "Katarzyna Wójcik",
-      "email": "katarzyna.wojcik@example.com",
-      "rola": "Użytkownik"
+      "tytul": "Trening",
+      "tresc": "Wieczorny trening na siłowni.",
+      "data": "2026-10-08T18:00:00+02:00"
     }
+  ]
 }
