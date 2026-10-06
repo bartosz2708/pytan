@@ -1,0 +1,24 @@
+{
+  "uzytkownicy": [
+    {
+      "imie": "Jan Kowalski",
+      "email": "jan.kowalski@example.com",
+      "rola": "Administrator"
+    },
+    {
+      "imie": "Anna Nowak",
+      "email": "anna.nowak@example.com",
+      "rola": "Programista"
+    },
+    {
+      "imie": "Piotr Wiśniewski",
+      "email": "piotr.wisniewski@example.com",
+      "rola": "Tester"
+    },
+    {
+      "imie": "Katarzyna Wójcik",
+      "email": "katarzyna.wojcik@example.com",
+      "rola": "Użytkownik"
+    }
+  ]
+}
