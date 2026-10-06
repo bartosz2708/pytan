@@ -1,5 +1,4 @@
 {
-  "uzytkownicy": [
     {
       "imie": "Jan Kowalski",
       "email": "jan.kowalski@example.com",
@@ -20,5 +19,4 @@
       "email": "katarzyna.wojcik@example.com",
       "rola": "Użytkownik"
     }
-  ]
 }
