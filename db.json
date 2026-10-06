@@ -1,5 +1,4 @@
-{
-  "wydarzenia": [
+[
     {
       "tytul": "Spotkanie zespołu",
       "tresc": "Omówienie postępów projektu.",
@@ -21,4 +20,4 @@
       "data": "2026-10-08T18:00:00+02:00"
     }
   ]
-}
+
